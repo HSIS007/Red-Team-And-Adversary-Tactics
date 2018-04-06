@@ -1,10 +1,8 @@
-# awesome-car-hacking
+# Red Team && Adversary simulation exercises
+# Techniques & Walkthrough
 
-We Share
+While learning about Red Team Assessments && Adversary Emulation Exercises i found it very very difficult to keep track of all the information, new tricks , useful websites, study videos and researching new tricks.
 
-This repository helps those who want to do research in car hacking. When i started my work in car hacking it was tough to find all
-the good material to study and what is right information. So i bring you awesome-car-hacking repository that help in learning car-hacking 
-from basic theoritical knowledge to pratical knowledges, video demonstrations etc.
+Purpose of this repository is to help all the beginner and experienced proffesionals to understand,learn and share new tricks for the community.
 
-
-"We Hack We Secure We Innovate We Share"  We are HSIS
+"We Hack We Secure We Innovate We Share" We are HSIS Red Teamers
