@@ -7,8 +7,24 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 
 "We Hack We Secure We Innovate We Share" We are HSIS Red Teamers
 
-- [Useful Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#security-news-websites)
+- [Useful Websites]
 - [Red Team Tips & Tricks]
-- [Softwares & Tools to Use]
+- [Adversary Emulation Tips & Tricks]
+- [Softwares & Tools to Use for Red Team]
+- [Softwares & Tools to Use for Adversary Emulation]
 - [Useful Documents & Writeup's]
 - [Video's to Refer]
+
+# Useful Websites
+
+# Red Team Tips & Tricks
+
+# Adversary Emulation Tips & Tricks
+
+# Softwares & Tools to Use for Red Team
+
+# Softwares & Tools to Use for Adversary Emulation
+
+# Useful Documents & Writeup
+
+# Videos to Refer
