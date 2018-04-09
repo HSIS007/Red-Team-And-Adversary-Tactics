@@ -12,7 +12,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 - [Adversary Emulation Tips & Tricks](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#adversary-emulation-tips--tricks)
 - [Softwares & Tools to Use for Red Team](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#softwares--tools-to-use-for-red-team)
 - [Softwares & Tools to Use for Adversary Emulation](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#softwares--tools-to-use-for-adversary-emulation)
-- [Useful Documents & Writeup's](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#useful-documents--writeup)
+- [Useful Documents, Writeups & Cheatsheets](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#useful-documents--writeup)
 - [Video's to Refer](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#videos-to-refer)
 
 # Useful Websites
@@ -25,6 +25,8 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 
 # Softwares & Tools to Use for Adversary Emulation
 
-# Useful Documents & Writeup
+# Useful Documents, Writeups & Cheatsheets
+
+- [CheatSheets](https://github.com/HarmJ0y/CheatSheets) : Cheat sheets for various projects (PowerView, PowerUp, Empire, and PowerSploit). Also a sheet for a commercial toolset (Beacon/Cobalt Strike).
 
 # Videos to Refer
