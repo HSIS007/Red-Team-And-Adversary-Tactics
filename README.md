@@ -31,3 +31,5 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 - [CheatSheets](https://github.com/HarmJ0y/CheatSheets) : Cheat sheets for various projects (PowerView, PowerUp, Empire, and PowerSploit). Also a sheet for a commercial toolset (Beacon/Cobalt Strike).
 
 # Videos to Refer
+
+# People to Follow
