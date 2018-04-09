@@ -7,7 +7,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 
 "We Hack We Secure We Innovate We Share" We are HSIS Red Teamers
 
-- [Useful Websites]
+- [Useful Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#security-news-websites)
 - [Red Team Tips & Tricks]
 - [Softwares & Tools to Use]
 - [Useful Documents & Writeup's]
