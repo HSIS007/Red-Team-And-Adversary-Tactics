@@ -14,6 +14,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 - [Softwares & Tools to Use for Adversary Emulation](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#softwares--tools-to-use-for-adversary-emulation)
 - [Useful Documents, Writeups & Cheatsheets](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics#useful-documents-writeups--cheatsheets)
 - [Video's to Refer](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#videos-to-refer)
+- [People to Follow]
 
 # Useful Websites
 
