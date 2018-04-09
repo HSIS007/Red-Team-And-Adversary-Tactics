@@ -17,6 +17,8 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 
 # Useful Websites
 
+- [Toool For Lockpickers](https://toool.us/) : It is an open organization which can be used by lockpickers to learn and buy lockpicking realted tools.
+
 # Red Team Tips & Tricks
 
 # Adversary Emulation Tips & Tricks
@@ -34,6 +36,9 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 - [EyeWitness](https://github.com/ChrisTruncer/EyeWitness): It take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon#powerview) : PowerView is a PowerShell tool to gain network situational awareness on Windows domains. 
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) : Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. 
+- [Proxmark3](https://store.ryscc.com/collections/proxmark-3) : Swiss Army Knife for performing RFID / NFC based red team assessments.
+- [RFIDler](https://github.com/ApertureLabsLtd/RFIDler) : Under development toolkit which is used for RFID and NFC Hacking, however this option is cheaper then Proxmark3.
+- [Hak5 Hacking Gears](https://hakshop.com/) : One stop shop for pentesters and redteamers who need to perform real physical and wireless hacking into the organizations. They contain the tools which can be used during USB Drop, Wireless Attacks, Maintaining Access and packet injections.
 
 # Useful Documents, Writeups & Cheatsheets
 
