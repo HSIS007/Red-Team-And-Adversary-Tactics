@@ -6,3 +6,9 @@ While learning about Red Team Assessments && Adversary Emulation Exercises i fou
 Purpose of this repository is to help all the beginner and experienced proffesionals to understand,learn and share new tricks for the community.
 
 "We Hack We Secure We Innovate We Share" We are HSIS Red Teamers
+
+- [Useful Websites]
+- [Red Team Tips & Tricks]
+- [Softwares & Tools to Use]
+- [Useful Documents & Writeup's]
+- [Video's to Refer]
