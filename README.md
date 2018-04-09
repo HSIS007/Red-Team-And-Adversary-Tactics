@@ -10,8 +10,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 - [Useful Websites](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#useful-websites)
 - [Red Team Tips & Tricks](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#red-team-tips--tricks)
 - [Adversary Emulation Tips & Tricks](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#adversary-emulation-tips--tricks)
-- [Softwares & Tools to Use for Red Team](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#softwares--tools-to-use-for-red-team)
-- [Softwares & Tools to Use for Adversary Emulation](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#softwares--tools-to-use-for-adversary-emulation)
+- [Softwares & Tools to Use for Red Team & Adversary Emulation ](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#softwares--tools-to-use-for-red-team)
 - [Useful Documents, Writeups & Cheatsheets](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics#useful-documents-writeups--cheatsheets)
 - [Video's to Refer](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#videos-to-refer)
 - [People to Follow](https://github.com/HSIS007/Red-Team-And-Adversary-Tactics/blob/master/README.md#people-to-follow)
@@ -22,9 +21,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 
 # Adversary Emulation Tips & Tricks
 
-# Softwares & Tools to Use for Red Team
-
-# Softwares & Tools to Use for Adversary Emulation
+# Softwares & Tools to Use for Red Team & Adversary Emulation
 
 # Useful Documents, Writeups & Cheatsheets
 
