@@ -33,6 +33,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 - [CredNinja](https://github.com/Raikia/CredNinja) : CredNinja is very useful when performing privilege escalation and lateral movement because you can identify systems for which your credentials have elevated privileges, and continue dumping credentials on those systems. - [WMIOps](https://github.com/ChrisTruncer/WMIOps) : WMIOps is a powershell script that uses WMI to perform a variety of actions on hosts, local or remote, within a Windows environment. It's designed primarily for use on penetration tests or red team engagements.
 - [EyeWitness](https://github.com/ChrisTruncer/EyeWitness): It take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon#powerview) : PowerView is a PowerShell tool to gain network situational awareness on Windows domains. 
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) : Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. 
 
 # Useful Documents, Writeups & Cheatsheets
 
