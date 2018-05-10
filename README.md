@@ -18,6 +18,7 @@ Purpose of this repository is to help all the beginner and experienced proffesio
 # Useful Websites
 
 - [Toool For Lockpickers](https://toool.us/) : It is an open organization which can be used by lockpickers to learn and buy lockpicking realted tools.
+- [Cyber Syndicates](https://cybersyndicates.com/) : RED TEAM AND HACKING BLOG WITH A TOUCH OF THREAT EMULATION OF REAL WORLD TTPS. WE FOCUS ON INFOSEC AND COVER TOPICS FROM LATEST TOOLSETS!
 
 # Red Team Tips & Tricks
 
